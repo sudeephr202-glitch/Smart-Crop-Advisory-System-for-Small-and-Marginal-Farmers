@@ -1,0 +1,9 @@
+{
+  "name": "KisanSahayak",
+  "description": "AI-powered agricultural advisory app for Indian farmers providing real-time crop guidance, disease detection, and market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
